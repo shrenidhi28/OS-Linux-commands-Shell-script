@@ -1,3 +1,5 @@
+# Name: C.Shrenidhi 212223040196
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
@@ -830,4 +832,5 @@ done
  
 $ chmod 755 untiltest.sh
  
- ![Screenshot 2024-03-01
+# result: 
+The output of the given programs is executed successfully.
